@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing the Slider Component should match the snapshot 1`] = `
+<div
+  data-testid="sliderComponent"
+>
+  <div>
+    <button
+      disabled={false}
+      onClick={[Function]}
+    >
+      Prev
+    </button>
+    <button
+      disabled={false}
+      onClick={[Function]}
+    >
+      Next
+    </button>
+  </div>
+</div>
+`;

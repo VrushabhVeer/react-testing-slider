@@ -1,0 +1,19 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Capital of India ?",
+            "answer": "Delhi"
+        },
+        {
+            "id": 2,
+            "question": "How many states in India ?",
+            "answer": "28"
+        },
+        {
+            "id": 3,
+            "question": "National Animal of India ?",
+            "answer": "Tiger"
+        }
+    ]
+}
